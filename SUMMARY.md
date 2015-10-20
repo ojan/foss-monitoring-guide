@@ -17,6 +17,7 @@
    * [Telegraf](collect/telegraf.md)
 * [Stockage](store/README.md)
    * [InfluxDB](store/influxdb.md)
+   * Elasticsearch
 * [Visualisation](view/README.md)
    * [Grafana](view/grafana.md)
 
