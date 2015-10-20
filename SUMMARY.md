@@ -4,6 +4,7 @@
 * [Bosun](monitoring/bosun.md)
 * Centreon
 * Consul
+* ELK
 * [Nagios](monitoring/nagios.md)
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
@@ -29,7 +30,6 @@
    * [Grafana](view/grafana.md)
    * [Kibana](view/kibana.md)
 * Graylog
-* ELK
 * Icinga2
 * Naemon
 * Prometheus
