@@ -33,8 +33,8 @@
 * Graylog
 * Icinga2
 * Naemon
-* Prometheus
 * Observium
+* Prometheus
 * Riemann
 * Sensu
 * Shinken
