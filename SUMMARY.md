@@ -17,6 +17,7 @@
 * [Riemann](monitoring/riemann.md)
 * [Sensu](monitoring/sensu.md)
 * [Shinken](monitoring/shinken.md)
+   * Munin
 * [Zabbix](monitoring/zabbix.md)
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
