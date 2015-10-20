@@ -65,7 +65,7 @@ Il s'agit ici du périmètre fonctionnel global de la solution par rapport à ce
 
 Cela offre un indicateur précieux sur la capacité de l’outil ; même si nous nous recommandons, lorsque cela est possible, de descendre au niveau « macroscopique » pour comparer des solutions entre elles sur un périmètre donné. Nos livres thématiques (CMS open source, GED open source, ERP open source, etc.) pourront vous aider.
 
-Précisons également que si ce critère est important pour bénéficier, de base, d’un outil au plus large périmètre possible, le critère de 'souplesse' est autrement plus impactant en termes de coût. En effet sur un outil souple, l'ajout d'une fonctionnalité peut se révéler relativement simple.
+Précisons également que si ce critère est important pour bénéficier, de base, d’un outil au plus large périmètre possible, le critère de "souplesse" est autrement plus impactant en termes de coût. En effet sur un outil souple, l'ajout d'une fonctionnalité peut se révéler relativement simple.
 
 ## Souplesse / Extensibilité
 
