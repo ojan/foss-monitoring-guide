@@ -27,4 +27,5 @@
    * [Grafana](view/grafana.md)
    * [Kibana](view/kibana.md)
 * Centreon
+* Graylog
 
