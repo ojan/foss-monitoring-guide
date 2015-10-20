@@ -4,7 +4,6 @@
 * [Critères d'évaluation](criteres.md)
 * Métrologie
 * [Bosun](monitoring/bosun.md)
-   * Métrologie
 * [Cacti](monitoring/cacti.md)
 * [Centreon](monitoring/centreon.md)
 * [Consul](monitoring/consul.md)
