@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Critères d'évaluation
+* [Critères d'évaluation](criteres.md)
 * [Bosun](monitoring/bosun.md)
 * [Cacti](monitoring/cacti.md)
 * [Centreon](monitoring/centreon.md)
