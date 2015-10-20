@@ -16,7 +16,7 @@
    * [OpenNMS](monitoring/opennms.md)
    * [Prometheus](monitoring/prometheus.md)
    * [Riemann](monitoring/riemann.md)
-   * [Sensu](monitoring/sensu.md)
+   * [Sensu](supervision/sensu.md)
    * [Shinken](supervision/shinken.md)
    * [Zabbix](supervision/zabbix.md)
 * [Métrologie](metrologie/README.md)
