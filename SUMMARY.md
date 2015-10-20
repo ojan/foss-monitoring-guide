@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Collecte
+* [Collecte](collecte.md)
 
