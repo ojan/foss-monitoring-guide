@@ -9,7 +9,7 @@
    * [ELK](monitoring/elk.md)
    * [Graylog](monitoring/graylog.md)
    * [Heka](monitoring/heka.md)
-   * [Icinga2](monitoring/icinga2.md)
+   * [Icinga2](supervision/icinga2.md)
    * [Naemon](supervision/naemon.md)
    * [Nagios](supervision/nagios.md)
    * [Observium](supervision/observium.md)
