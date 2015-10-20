@@ -11,6 +11,7 @@
 * Icinga2
 * Naemon
 * [Nagios](monitoring/nagios.md)
+   * OpenNMS
 * Observium
 * Prometheus
 * Riemann
