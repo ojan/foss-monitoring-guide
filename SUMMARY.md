@@ -35,7 +35,7 @@
    * [NXlog](collect/nxlog.md)
    * [Osquery](collect/osquery.md)
    * [Performance Co-pilot](collect/pcp.md)
-   * Phantomas
+   * [Phantomas](collect/phantomas.md)
    * [Selenium](collect/selenium.md)
    * [Sitespeed.io](collect/sitespeedio.md)
    * [Sysdig](collect/sysdig.md)
