@@ -7,7 +7,7 @@
 * [ELK](monitoring/elk.md)
 * [Graphite](monitoring/graphite.md)
 * [Graylog](monitoring/graylog.md)
-* Heka
+* [Heka](monitoring/heka.md)
 * Icinga2
 * Naemon
 * [Nagios](monitoring/nagios.md)
