@@ -10,7 +10,7 @@
    * [Graylog](monitoring/graylog.md)
    * [Heka](monitoring/heka.md)
    * [Icinga2](monitoring/icinga2.md)
-   * [Naemon](monitoring/naemon.md)
+   * [Naemon](supervision/naemon.md)
    * [Nagios](supervision/nagios.md)
    * [Observium](supervision/observium.md)
    * [OpenNMS](supervision/opennms.md)
