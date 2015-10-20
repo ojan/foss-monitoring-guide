@@ -5,6 +5,7 @@
 * Centreon
 * Consul
 * ELK
+* Graphite
 * [Nagios](monitoring/nagios.md)
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
