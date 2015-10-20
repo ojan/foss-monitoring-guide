@@ -1,4 +1,4 @@
-# Summary
+# Sommaire
 
 * [Introduction](README.md)
 * [Critères d'évaluation](criteres.md)
