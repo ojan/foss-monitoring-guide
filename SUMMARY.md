@@ -4,7 +4,7 @@
 * Collecte
    * [Collectd](collect/collectd.md)
 * Stockage
-   * InfluxDB
+   * [InfluxDB](store/influxdb.md)
 * Visualisation
    * Grafana
 
