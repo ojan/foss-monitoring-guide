@@ -35,11 +35,11 @@
    * [NXlog](collect/nxlog.md)
    * [Osquery](collect/osquery.md)
    * [Performance Co-pilot](collect/pcp.md)
+   * Phantomas
    * [Selenium](collect/selenium.md)
    * [Sitespeed.io](collect/sitespeedio.md)
    * [Sysdig](collect/sysdig.md)
    * [Telegraf](collect/telegraf.md)
-   * Phantomas
 * [Stockage](store/README.md)
    * [Elasticsearch](store/elasticsearch.md)
    * [InfluxDB](store/influxdb.md)
