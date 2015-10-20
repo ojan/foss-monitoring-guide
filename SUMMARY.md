@@ -32,4 +32,5 @@
 * Icinga2
 * Naemon
 * Riemann
+* Shinken
 
