@@ -7,9 +7,9 @@
 * ELK
 * Graphite
 * Heka
+* Icinga2
 * Graylog
 * [Nagios](monitoring/nagios.md)
-* Icinga2
 * Naemon
 * Observium
 * Prometheus
