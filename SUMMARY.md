@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Bosun](monitoring/bosun.md)
 * Centreon
+* Consul
 * [Nagios](monitoring/nagios.md)
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
@@ -36,5 +37,4 @@
 * Sensu
 * Shinken
 * Observium
-* Consul
 
