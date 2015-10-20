@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Bosun](monitoring/bosun.md)
+* [Nagios](monitoring/nagios.md)
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
    * [Cadvisor](collect/cadvisor.md)
@@ -25,5 +26,4 @@
    * [Dashing](view/dashing.md)
    * [Grafana](view/grafana.md)
    * [Kibana](view/kibana.md)
-* [Nagios](monitoring/nagios.md)
 
