@@ -18,7 +18,7 @@
 * [Stockage](store/README.md)
    * [InfluxDB](store/influxdb.md)
    * [Elasticsearch](store/elasticsearch.md)
-   * KairosDB
+   * [KairosDB](store/kairosdb.md)
    * OpenTSDB
 * [Visualisation](view/README.md)
    * [Grafana](view/grafana.md)
