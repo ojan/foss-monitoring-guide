@@ -6,9 +6,9 @@
 * Consul
 * ELK
 * Graphite
+* Graylog
 * Heka
 * Icinga2
-* Graylog
 * [Nagios](monitoring/nagios.md)
 * Naemon
 * Observium
