@@ -35,8 +35,8 @@
 * Naemon
 * Prometheus
 * Riemann
-* Sensu
-* Shinken
 * Observium
    * Graphite
+* Sensu
+* Shinken
 
