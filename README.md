@@ -1,4 +1,4 @@
-My Awesome Book
+Guide du Monitoring FOSS
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+La revue de détail des meilleures solutions de supervision Open Source et les informations nécessaires pour faire le meilleur choix dans le cadre de votre projet de supervision
