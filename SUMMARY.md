@@ -9,7 +9,7 @@
 * [Graylog](monitoring/graylog.md)
 * [Heka](monitoring/heka.md)
 * [Icinga2](monitoring/icinga2.md)
-* Naemon
+* [Naemon](monitoring/naemon.md)
 * [Nagios](monitoring/nagios.md)
 * Observium
 * OpenNMS
