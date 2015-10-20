@@ -7,7 +7,7 @@
    * [Centreon](monitoring/centreon.md)
    * [Consul](monitoring/consul.md)
    * [ELK](monitoring/elk.md)
-   * [Graylog](monitoring/graylog.md)
+   * [Graylog](supervision/graylog.md)
    * [Heka](supervision/heka.md)
    * [Icinga2](supervision/icinga2.md)
    * [Naemon](supervision/naemon.md)
