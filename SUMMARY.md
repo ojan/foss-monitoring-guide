@@ -11,6 +11,7 @@
 * Icinga2
 * Naemon
 * Observium
+* Prometheus
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
    * [Cadvisor](collect/cadvisor.md)
@@ -34,7 +35,6 @@
    * [Dashing](view/dashing.md)
    * [Grafana](view/grafana.md)
    * [Kibana](view/kibana.md)
-* Prometheus
 * Riemann
 * Sensu
 * Shinken
