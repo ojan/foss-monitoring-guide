@@ -13,7 +13,7 @@
 * [Nagios](monitoring/nagios.md)
 * [Observium](monitoring/observium.md)
 * [OpenNMS](monitoring/opennms.md)
-* Prometheus
+* [Prometheus](monitoring/prometheus.md)
 * Riemann
 * Sensu
 * Shinken
