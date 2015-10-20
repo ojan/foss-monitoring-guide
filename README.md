@@ -11,7 +11,7 @@ Ce guide a donc pour vocation de vous fournir l'ensemble des informations néces
 
 ## Solutions non présentes
 
-Ce guide ne présente pas toutes les solutions de supervision Open Source existantes, loin s'en faut. Nous avons privilégié qualité plutôt que quantité.
+Ce guide ne présente pas toutes les solutions de supervision Open Source existantes, loin s'en faut. Nous avons privilégié **qualité plutôt que quantité**.
 
 C'est ainsi que vous ne trouverez pas dans ce guide ces solutions, devenues obsolètes, peu suivies ou plus suffisamment Open Source.
 
