@@ -14,7 +14,7 @@
 * [Observium](monitoring/observium.md)
 * [OpenNMS](monitoring/opennms.md)
 * [Prometheus](monitoring/prometheus.md)
-* Riemann
+* [Riemann](monitoring/riemann.md)
 * Sensu
 * Shinken
 * [Collecte](collect/README.md)
