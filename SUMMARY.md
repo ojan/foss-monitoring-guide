@@ -19,6 +19,7 @@
    * [InfluxDB](store/influxdb.md)
    * Elasticsearch
    * KairosDB
+   * OpenTSDB
 * [Visualisation](view/README.md)
    * [Grafana](view/grafana.md)
 
