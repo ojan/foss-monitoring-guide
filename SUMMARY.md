@@ -21,6 +21,7 @@
 * [Zabbix](monitoring/zabbix.md)
 * [Métrologie](metrologie/README.md)
    * [Cacti](metrologie/cacti.md)
+   * Munin
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
    * [Cadvisor](collect/cadvisor.md)
