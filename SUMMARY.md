@@ -5,6 +5,7 @@
 * [Centreon](monitoring/centreon.md)
 * [Consul](monitoring/consul.md)
 * [ELK](monitoring/elk.md)
+   * Cacti
 * [Graphite](monitoring/graphite.md)
 * [Graylog](monitoring/graylog.md)
 * [Heka](monitoring/heka.md)
