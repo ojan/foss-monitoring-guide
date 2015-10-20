@@ -2,10 +2,7 @@
 
 Le monitoring (ou monitorage en français, mais on gardera monitoring), désigne le fait de “surveiller” , ou “garder un oeil sur” . Cependant, le fait de surveiller quelque chose revient à connaître sont état actuel mais aussi l’historique de ses états passés, par l’intermédiaire de valeurs (UP/DOWN) et de données chiffrées (des pourcentages par exemple). C’est ici que l’on retrouve une distinction entre deux notions que sont la supervision et la métrologie.
 
-La métrologie, dans laquelle on retrouve la notion de mètre/métrique, est le fait d’obtenir, de garder et de tracer la valeur numérique d’une charge. Par exemple le pourcentage de CPU utilisé sur un serveur, le nombre de personnes connectées sur une site web, le trafic sortant et entrant sur un switch. Bien souvent, la métrologie permet tout simplement de tracer des graphiques, bien connus dans le domaine du monitoring :
-cacti-exemple-monitoring-01
-
-Exemple de graphiques produits par Cacti/Munin (RDDTOOL). Ici, aucune indication concernant l’état à l’instant T mais un historique de valeurs numériques retraçant l’évolution d’une charge.
+La métrologie, dans laquelle on retrouve la notion de mètre/métrique, est le fait d’obtenir, de garder et de tracer la valeur numérique d’une charge. Par exemple le pourcentage de CPU utilisé sur un serveur, le nombre de personnes connectées sur une site web, le trafic sortant et entrant sur un switch. Bien souvent, la métrologie permet tout simplement de tracer des graphiques, bien connus dans le domaine du monitoring.
 
 La métrologie est donc le fait de récupérer la charge (chiffrée), permettant de tracer son évolution dans le temps. Elle est donc caractérisée non pas par le fait de récupérer une valeur à l’instant T, mais de pouvoir afficher et tracer l’évolution d’une charge, construite par un ensemble de métrique récupérées dans le temps.
 
@@ -26,4 +23,6 @@ D’autres solutions permettent même d’établir une prévision de charge en u
 
 Bref ! Le sujet est vaste et les notions de supervision et métrologie tendent de plus en plus à se confondre. Le terme monitoring quant à lui englobe les deux concepts.
 
-Sélection_005Nombreux sont les informaticiens, même expérimentés, ne faisant pas la distinction, certains croyaient même que je faisais une mauvaise blague lorsque je leur expliquais la différence entre monitoring, supervision et métrologie. Et vous, faites vous la différence entre les concepts de métrologie/supervision ?
+![Schéma Monitoring](http://www.it-connect.fr/wp-content-itc/uploads/2015/09/S%C3%A9lection_005.png)
+
+Nombreux sont les informaticiens, même expérimentés, ne faisant pas la distinction, certains croyaient même que je faisais une mauvaise blague lorsque je leur expliquais la différence entre monitoring, supervision et métrologie. Et vous, faites vous la différence entre les concepts de métrologie/supervision ?
