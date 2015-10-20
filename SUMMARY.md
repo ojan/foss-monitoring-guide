@@ -7,6 +7,7 @@
    * [Cadvisor](collect/cadvisor.md)
    * [Osquery](collect/osquery.md)
    * Diamond
+   * Fluentd
 * [Stockage](store/README.md)
    * [InfluxDB](store/influxdb.md)
 * [Visualisation](view/README.md)
