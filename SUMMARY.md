@@ -32,8 +32,8 @@
 * Icinga2
 * Naemon
 * Riemann
-* Shinken
 * Sensu
+* Shinken
 * Prometheus
 * Observium
 
