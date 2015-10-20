@@ -13,7 +13,7 @@
    * [Naemon](monitoring/naemon.md)
    * [Nagios](monitoring/nagios.md)
    * [Observium](monitoring/observium.md)
-   * [OpenNMS](monitoring/opennms.md)
+   * [OpenNMS](supervision/opennms.md)
    * [Prometheus](supervision/prometheus.md)
    * [Riemann](supervision/riemann.md)
    * [Sensu](supervision/sensu.md)
