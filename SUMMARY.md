@@ -15,7 +15,7 @@
 * [OpenNMS](monitoring/opennms.md)
 * [Prometheus](monitoring/prometheus.md)
 * [Riemann](monitoring/riemann.md)
-* Sensu
+* [Sensu](monitoring/sensu.md)
 * Shinken
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
