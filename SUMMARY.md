@@ -5,4 +5,5 @@
    * [Collectd](collect/collectd.md)
 * Stockage
    * InfluxDB
+* Visualisation
 
