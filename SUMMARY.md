@@ -11,7 +11,7 @@
    * [Performance Co-pilot](collect/pcp.md)
    * [NXlog](collect/nxlog.md)
    * [Telegraf](collect/telegraf.md)
-   * Logstash
+   * [Logstash](collect/logstash.md)
    * Sysdig
 * [Stockage](store/README.md)
    * [InfluxDB](store/influxdb.md)
