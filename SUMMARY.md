@@ -11,7 +11,7 @@
 * [Icinga2](monitoring/icinga2.md)
 * [Naemon](monitoring/naemon.md)
 * [Nagios](monitoring/nagios.md)
-* Observium
+* [Observium](monitoring/observium.md)
 * OpenNMS
 * Prometheus
 * Riemann
