@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Bosun](monitoring/bosun.md)
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
    * [Cadvisor](collect/cadvisor.md)
@@ -25,5 +26,4 @@
    * [Grafana](view/grafana.md)
    * [Kibana](view/kibana.md)
 * [Nagios](monitoring/nagios.md)
-* [Bosun](monitoring/bosun.md)
 
