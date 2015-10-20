@@ -13,8 +13,8 @@
    * [Osquery](collect/osquery.md)
    * [Performance Co-pilot](collect/pcp.md)
    * Statsd
+   * [Telegraf](collect/telegraf.md)
    * [Sysdig](collect/sysdig.md)
-* [Telegraf](collect/telegraf.md)
 * [Stockage](store/README.md)
    * [InfluxDB](store/influxdb.md)
 * [Visualisation](view/README.md)
