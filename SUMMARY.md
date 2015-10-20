@@ -35,9 +35,9 @@
    * [NXlog](collect/nxlog.md)
    * [Osquery](collect/osquery.md)
    * [Performance Co-pilot](collect/pcp.md)
+   * Sitespeed.io
    * [Sysdig](collect/sysdig.md)
    * [Telegraf](collect/telegraf.md)
-   * Sitespeed.io
 * [Stockage](store/README.md)
    * [Elasticsearch](store/elasticsearch.md)
    * [InfluxDB](store/influxdb.md)
