@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Bosun](monitoring/bosun.md)
+* Centreon
 * [Nagios](monitoring/nagios.md)
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
@@ -26,7 +27,6 @@
    * [Dashing](view/dashing.md)
    * [Grafana](view/grafana.md)
    * [Kibana](view/kibana.md)
-* Centreon
 * Graylog
 * ELK
 * Icinga2
