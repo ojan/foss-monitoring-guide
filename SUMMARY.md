@@ -9,8 +9,8 @@
 * Graylog
 * Heka
 * Icinga2
-* [Nagios](monitoring/nagios.md)
 * Naemon
+* [Nagios](monitoring/nagios.md)
 * Observium
 * Prometheus
 * Riemann
