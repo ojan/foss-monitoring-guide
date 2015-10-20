@@ -6,7 +6,7 @@
 * [Consul](monitoring/consul.md)
 * [ELK](monitoring/elk.md)
 * [Graphite](monitoring/graphite.md)
-* Graylog
+* [Graylog](monitoring/graylog.md)
 * Heka
 * Icinga2
 * Naemon
