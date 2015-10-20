@@ -15,6 +15,7 @@
 * [OpenNMS](monitoring/opennms.md)
 * [Prometheus](monitoring/prometheus.md)
 * [Riemann](monitoring/riemann.md)
+   * Zabbix
 * [Sensu](monitoring/sensu.md)
 * [Shinken](monitoring/shinken.md)
 * [Collecte](collect/README.md)
