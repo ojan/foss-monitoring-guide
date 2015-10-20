@@ -6,6 +6,7 @@
 * Consul
 * ELK
 * Graphite
+* Heka
 * Graylog
    * Heka
 * [Nagios](monitoring/nagios.md)
