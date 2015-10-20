@@ -31,9 +31,9 @@
 * ELK
 * Icinga2
 * Naemon
+* Prometheus
 * Riemann
 * Sensu
 * Shinken
-* Prometheus
 * Observium
 
