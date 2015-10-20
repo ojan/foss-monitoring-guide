@@ -34,4 +34,5 @@
 * Riemann
 * Shinken
 * Sensu
+* Prometheus
 
