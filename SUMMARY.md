@@ -4,4 +4,5 @@
 * Collecte
    * [Collectd](collect/collectd.md)
 * Stockage
+   * InfluxDB
 
