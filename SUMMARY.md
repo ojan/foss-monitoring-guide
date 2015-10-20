@@ -22,4 +22,5 @@
    * [OpenTSDB](store/opentsdb.md)
 * [Visualisation](view/README.md)
    * [Grafana](view/grafana.md)
+   * Kibana
 
