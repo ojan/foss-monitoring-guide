@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Bosun](monitoring/bosun.md)
 * [Centreon](monitoring/centreon.md)
-* Consul
+* [Consul](monitoring/consul.md)
 * ELK
 * Graphite
 * Graylog
