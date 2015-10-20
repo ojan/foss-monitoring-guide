@@ -7,3 +7,5 @@ Nagios dispose de nombreuses fonctionnalités telles que l'héritage multiple, l
 La modularité et la forte communauté (> 250 000) qui gravite autour de Nagios (en participant au développement de nombreux plugins et addons) offrent des possibilités en terme de supervision qui permettent aujourd'hui de pouvoir superviser pratiquement n'importe quelle ressource.
 
 Les plugins sont écrits dans les langages de programmation les plus adaptés à leur tâche : scripts shell (Bash, ksh, etc.), C++, Perl, Python, Ruby, PHP, C#, etc.
+
+![Notation Nagios](http://www.open-source-guide.com/var/site_smile/storage/images/graph/fre-FR/smile_graph_16939.png)
