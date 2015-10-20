@@ -6,5 +6,5 @@
 * Stockage
    * [InfluxDB](store/influxdb.md)
 * Visualisation
-   * Grafana
+   * [Grafana](view/grafana.md)
 
