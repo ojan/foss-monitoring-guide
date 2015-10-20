@@ -18,7 +18,7 @@
 * [Sensu](monitoring/sensu.md)
 * [Shinken](monitoring/shinken.md)
 * [Supervision](supervision/README.md)
-   * Zabbix
+   * [Zabbix](supervision/zabbix.md)
 * [Métrologie](metrologie/README.md)
    * [Cacti](metrologie/cacti.md)
    * [Munin](metrologie/munin.md)
