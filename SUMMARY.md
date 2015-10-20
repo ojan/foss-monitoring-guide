@@ -34,7 +34,6 @@
    * [NXlog](collect/nxlog.md)
    * [Osquery](collect/osquery.md)
    * [Performance Co-pilot](collect/pcp.md)
-   * [Statsd](collect/statsd.md)
    * [Sysdig](collect/sysdig.md)
    * [Telegraf](collect/telegraf.md)
 * [Stockage](store/README.md)
