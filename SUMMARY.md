@@ -29,4 +29,5 @@
 * Centreon
 * Graylog
 * ELK
+* Icinga2
 
