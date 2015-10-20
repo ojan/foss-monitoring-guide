@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Critères d'évaluation](criteres.md)
-* [Bosun](monitoring/bosun.md)
 * [Supervision](supervision/README.md)
+   * [Bosun](monitoring/bosun.md)
    * [Centreon](monitoring/centreon.md)
    * [Consul](monitoring/consul.md)
    * [ELK](monitoring/elk.md)
