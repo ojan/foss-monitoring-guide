@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Critères d'évaluation](criteres.md)
 * [Cacti](monitoring/cacti.md)
-* Métrologie
 * [Bosun](monitoring/bosun.md)
 * [Centreon](monitoring/centreon.md)
 * [Consul](monitoring/consul.md)
