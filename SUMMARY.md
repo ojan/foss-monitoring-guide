@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Bosun](monitoring/bosun.md)
-* Cacti
+* [Cacti](monitoring/cacti.md)
 * [Centreon](monitoring/centreon.md)
 * [Consul](monitoring/consul.md)
 * [ELK](monitoring/elk.md)
