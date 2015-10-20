@@ -12,7 +12,7 @@
    * [NXlog](collect/nxlog.md)
    * [Telegraf](collect/telegraf.md)
    * [Logstash](collect/logstash.md)
-   * Sysdig
+   * [Sysdig](collect/sysdig.md)
 * [Stockage](store/README.md)
    * [InfluxDB](store/influxdb.md)
 * [Visualisation](view/README.md)
