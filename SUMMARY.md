@@ -23,5 +23,5 @@
 * [Visualisation](view/README.md)
    * [Dashing](view/dashing.md)
    * [Grafana](view/grafana.md)
-   * Kibana
+   * [Kibana](view/kibana.md)
 
