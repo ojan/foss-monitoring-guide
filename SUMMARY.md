@@ -21,7 +21,7 @@
    * [KairosDB](store/kairosdb.md)
    * [OpenTSDB](store/opentsdb.md)
 * [Visualisation](view/README.md)
+   * Dashing
    * [Grafana](view/grafana.md)
    * Kibana
-   * Dashing
 
