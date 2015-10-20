@@ -9,7 +9,7 @@
    * [Diamond](collect/diamond.md)
    * [Fluentd](collect/fluentd.md)
    * [Performance Co-pilot](collect/pcp.md)
-   * NXlog
+   * [NXlog](collect/nxlog.md)
    * Telegraf
    * Logstash
    * Sysdig
