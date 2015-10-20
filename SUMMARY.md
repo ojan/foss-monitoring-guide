@@ -11,7 +11,7 @@
    * [Heka](monitoring/heka.md)
    * [Icinga2](monitoring/icinga2.md)
    * [Naemon](monitoring/naemon.md)
-   * [Nagios](monitoring/nagios.md)
+   * [Nagios](supervision/nagios.md)
    * [Observium](supervision/observium.md)
    * [OpenNMS](supervision/opennms.md)
    * [Prometheus](supervision/prometheus.md)
