@@ -8,7 +8,7 @@
    * [Consul](monitoring/consul.md)
    * [ELK](monitoring/elk.md)
    * [Graylog](monitoring/graylog.md)
-   * [Heka](monitoring/heka.md)
+   * [Heka](supervision/heka.md)
    * [Icinga2](supervision/icinga2.md)
    * [Naemon](supervision/naemon.md)
    * [Nagios](supervision/nagios.md)
