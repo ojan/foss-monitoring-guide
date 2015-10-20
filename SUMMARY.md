@@ -6,4 +6,5 @@
 * Stockage
    * InfluxDB
 * Visualisation
+   * Grafana
 
