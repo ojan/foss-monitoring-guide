@@ -12,9 +12,9 @@
    * [NXlog](collect/nxlog.md)
    * [Osquery](collect/osquery.md)
    * [Performance Co-pilot](collect/pcp.md)
-   * [Telegraf](collect/telegraf.md)
    * Statsd
    * [Sysdig](collect/sysdig.md)
+* [Telegraf](collect/telegraf.md)
 * [Stockage](store/README.md)
    * [InfluxDB](store/influxdb.md)
 * [Visualisation](view/README.md)
