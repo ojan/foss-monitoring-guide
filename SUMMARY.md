@@ -36,4 +36,5 @@
 * Sensu
 * Shinken
 * Observium
+* Consul
 
