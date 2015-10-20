@@ -5,7 +5,6 @@
 * [Bosun](monitoring/bosun.md)
 * Métrologie
 * [Centreon](monitoring/centreon.md)
-   * Métrologie
 * Cacti
 * [Consul](monitoring/consul.md)
 * [ELK](monitoring/elk.md)
