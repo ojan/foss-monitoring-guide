@@ -8,7 +8,7 @@
    * [Osquery](collect/osquery.md)
    * [Diamond](collect/diamond.md)
    * [Fluentd](collect/fluentd.md)
-   * Performance Co-pilot
+   * [Performance Co-pilot](collect/pcp.md)
    * NXlog
    * Telegraf
    * Logstash
