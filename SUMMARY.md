@@ -18,6 +18,7 @@
 * [Stockage](store/README.md)
    * [InfluxDB](store/influxdb.md)
    * Elasticsearch
+   * KairosDB
 * [Visualisation](view/README.md)
    * [Grafana](view/grafana.md)
 
