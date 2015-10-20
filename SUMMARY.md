@@ -9,6 +9,7 @@
 * [Graylog](monitoring/graylog.md)
 * [Heka](monitoring/heka.md)
 * [Icinga2](monitoring/icinga2.md)
+* Munin
 * [Naemon](monitoring/naemon.md)
 * [Nagios](monitoring/nagios.md)
 * [Observium](monitoring/observium.md)
