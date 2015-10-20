@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Collecte
+* [Collecte](collect/README.md)
    * [Collectd](collect/collectd.md)
 * Stockage
    * [InfluxDB](store/influxdb.md)
