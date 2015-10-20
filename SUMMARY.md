@@ -5,6 +5,6 @@
    * [Collectd](collect/collectd.md)
 * [Stockage](store/README.md)
    * [InfluxDB](store/influxdb.md)
-* Visualisation
+* [Visualisation](view/README.md)
    * [Grafana](view/grafana.md)
 
