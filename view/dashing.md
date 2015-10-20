@@ -1,7 +1,5 @@
 # Dashing
 
-
-
 Dashing is a Sinatra based framework that lets you build beautiful dashboards.
 
 Check out a demo over here. Here's another one, optimized for 1080p screens.
