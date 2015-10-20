@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Bosun](monitoring/bosun.md)
-* Centreon
+* [Centreon](monitoring/centreon.md)
 * Consul
 * ELK
 * Graphite
