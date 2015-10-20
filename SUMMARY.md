@@ -36,7 +36,6 @@
 * Prometheus
 * Riemann
 * Observium
-   * Graphite
 * Sensu
 * Shinken
 
