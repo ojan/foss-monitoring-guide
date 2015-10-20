@@ -5,7 +5,7 @@
 * [Supervision](supervision/README.md)
    * [Bosun](monitoring/bosun.md)
    * [Centreon](supervision/centreon.md)
-   * [Consul](monitoring/consul.md)
+   * [Consul](supervision/consul.md)
    * [ELK](supervision/elk.md)
    * [Graylog](supervision/graylog.md)
    * [Heka](supervision/heka.md)
