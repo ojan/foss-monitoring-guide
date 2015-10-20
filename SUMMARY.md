@@ -25,5 +25,5 @@
    * [Grafana](view/grafana.md)
    * [Kibana](view/kibana.md)
 * [Nagios](monitoring/nagios.md)
-* Bosun
+* [Bosun](monitoring/bosun.md)
 
