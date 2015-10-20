@@ -1,8 +1,6 @@
-# Supervision
+# Monitoring, Supervision & Métrologie
 
-La supervision est un sujet présent dans tous les systèmes d’information à partir d’une certaine taille. Alors que certains préfèrent des outils libres tels que Nagios, Nagvis, Shinken ou Icinga, d’autres utilisent des solutions propriétaires, souvent plus simple d’accès et d’administration tel que PRTG. On oublie cependant parfois que la “supervision” n’est qu’un des éléments qui composent le monitoring.
-
-Le monitoring (ou monitorage en français, mais on gardera monitoring 😉 ), désigne le fait de “surveiller” , ou “garder un oeil sur” . Cependant, le fait de surveiller quelque chose revient à connaître sont état actuel mais aussi l’historique de ses états passés, par l’intermédiaire de valeurs (UP/DOWN) et de données chiffrées (des pourcentages par exemple). C’est ici que l’on retrouve une distinction entre deux notions que sont la supervision et la métrologie.
+Le monitoring (ou monitorage en français, mais on gardera monitoring), désigne le fait de “surveiller” , ou “garder un oeil sur” . Cependant, le fait de surveiller quelque chose revient à connaître sont état actuel mais aussi l’historique de ses états passés, par l’intermédiaire de valeurs (UP/DOWN) et de données chiffrées (des pourcentages par exemple). C’est ici que l’on retrouve une distinction entre deux notions que sont la supervision et la métrologie.
 
 La métrologie, dans laquelle on retrouve la notion de mètre/métrique, est le fait d’obtenir, de garder et de tracer la valeur numérique d’une charge. Par exemple le pourcentage de CPU utilisé sur un serveur, le nombre de personnes connectées sur une site web, le trafic sortant et entrant sur un switch. Bien souvent, la métrologie permet tout simplement de tracer des graphiques, bien connus dans le domaine du monitoring :
 cacti-exemple-monitoring-01
