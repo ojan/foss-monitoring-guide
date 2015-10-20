@@ -16,7 +16,7 @@
 * [Prometheus](monitoring/prometheus.md)
 * [Riemann](monitoring/riemann.md)
 * [Sensu](monitoring/sensu.md)
-* Shinken
+* [Shinken](monitoring/shinken.md)
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
    * [Cadvisor](collect/cadvisor.md)
