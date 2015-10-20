@@ -23,6 +23,7 @@
    * [Cacti](metrologie/cacti.md)
    * [Munin](metrologie/munin.md)
    * [Graphite](metrologie/graphite.md)
+   * Statsd
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
    * [Cadvisor](collect/cadvisor.md)
