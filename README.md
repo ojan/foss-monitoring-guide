@@ -9,7 +9,6 @@ A côté des solutions historiques comme Nagios ou OpenNMS sont apparues des pet
 
 Ce guide a donc pour vocation de vous fournir l'ensemble des informations nécessaires au moment du choix de votre solution de supervision.
 
-
 ## Solutions non présentes
 
 Ce guide ne présente pas toutes les solutions de supervision Open Source existantes, loin s'en faut. Nous avons privilégié qualité au détriment de la quantité.
