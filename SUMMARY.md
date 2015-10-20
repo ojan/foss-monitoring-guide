@@ -11,6 +11,7 @@
    * Performance Co-pilot
    * NXlog
    * Telegraf
+   * Logstash
 * [Stockage](store/README.md)
    * [InfluxDB](store/influxdb.md)
 * [Visualisation](view/README.md)
