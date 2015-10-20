@@ -6,3 +6,5 @@ La revue de détail des meilleures solutions de supervision Open Source et les i
 Choisir une solution de supervision n'a jamais été aussi difficile.
 
 A côté des solutions historiques comme Nagios ou OpenNMS sont apparues des petits jeunes bien décidés à se tailler la part du lion.
+
+Ce guide a donc pour vocation de vous fournir l'ensemble des informations nécessaires au moment du choix de votre solution de supervision.
