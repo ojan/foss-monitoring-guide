@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * Collecte
-   * Collectd
+   * [Collectd](collect/collectd.md)
 * Stockage
 
