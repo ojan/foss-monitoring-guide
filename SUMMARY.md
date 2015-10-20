@@ -17,7 +17,7 @@
    * [Telegraf](collect/telegraf.md)
 * [Stockage](store/README.md)
    * [InfluxDB](store/influxdb.md)
-   * Elasticsearch
+   * [Elasticsearch](store/elasticsearch.md)
    * KairosDB
    * OpenTSDB
 * [Visualisation](view/README.md)
