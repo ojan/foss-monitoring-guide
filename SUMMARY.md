@@ -33,4 +33,5 @@
 * Naemon
 * Riemann
 * Shinken
+* Sensu
 
