@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Critères d'évaluation](criteres.md)
 * [Supervision](supervision/README.md)
-   * [Bosun](monitoring/bosun.md)
+   * [Bosun](supervision/bosun.md)
    * [Centreon](supervision/centreon.md)
    * [Consul](supervision/consul.md)
    * [ELK](supervision/elk.md)
