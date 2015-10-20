@@ -5,7 +5,7 @@
 * [Centreon](monitoring/centreon.md)
 * [Consul](monitoring/consul.md)
 * [ELK](monitoring/elk.md)
-* Graphite
+* [Graphite](monitoring/graphite.md)
 * Graylog
 * Heka
 * Icinga2
