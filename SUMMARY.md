@@ -9,6 +9,7 @@
 * [Nagios](monitoring/nagios.md)
 * Graylog
 * Icinga2
+* Naemon
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
    * [Cadvisor](collect/cadvisor.md)
@@ -32,7 +33,6 @@
    * [Dashing](view/dashing.md)
    * [Grafana](view/grafana.md)
    * [Kibana](view/kibana.md)
-* Naemon
 * Observium
 * Prometheus
 * Riemann
