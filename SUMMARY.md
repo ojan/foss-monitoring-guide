@@ -6,7 +6,7 @@
    * [Collectd](collect/collectd.md)
    * [Cadvisor](collect/cadvisor.md)
    * [Osquery](collect/osquery.md)
-   * Diamond
+   * [Diamond](collect/diamond.md)
    * Fluentd
    * Performance Co-pilot
    * NXlog
