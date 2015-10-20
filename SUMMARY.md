@@ -10,7 +10,7 @@
    * [Fluentd](collect/fluentd.md)
    * [Performance Co-pilot](collect/pcp.md)
    * [NXlog](collect/nxlog.md)
-   * Telegraf
+   * [Telegraf](collect/telegraf.md)
    * Logstash
    * Sysdig
 * [Stockage](store/README.md)
