@@ -24,5 +24,5 @@
    * [Dashing](view/dashing.md)
    * [Grafana](view/grafana.md)
    * [Kibana](view/kibana.md)
-* Nagios
+* [Nagios](monitoring/nagios.md)
 
