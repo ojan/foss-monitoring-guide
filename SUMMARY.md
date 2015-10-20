@@ -19,7 +19,7 @@
    * [InfluxDB](store/influxdb.md)
    * [Elasticsearch](store/elasticsearch.md)
    * [KairosDB](store/kairosdb.md)
-   * OpenTSDB
+   * [OpenTSDB](store/opentsdb.md)
 * [Visualisation](view/README.md)
    * [Grafana](view/grafana.md)
 
