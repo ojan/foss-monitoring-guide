@@ -8,7 +8,7 @@
 * [Graphite](monitoring/graphite.md)
 * [Graylog](monitoring/graylog.md)
 * [Heka](monitoring/heka.md)
-* Icinga2
+* [Icinga2](monitoring/icinga2.md)
 * Naemon
 * [Nagios](monitoring/nagios.md)
 * Observium
