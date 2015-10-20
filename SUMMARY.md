@@ -30,4 +30,5 @@
 * Graylog
 * ELK
 * Icinga2
+* Naemon
 
