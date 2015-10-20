@@ -17,7 +17,6 @@
 * [Riemann](monitoring/riemann.md)
 * [Sensu](monitoring/sensu.md)
 * [Shinken](monitoring/shinken.md)
-* [Zabbix](monitoring/zabbix.md)
 * [Supervision](supervision/README.md)
    * Zabbix
 * [Métrologie](metrologie/README.md)
