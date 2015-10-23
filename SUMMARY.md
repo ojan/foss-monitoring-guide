@@ -31,7 +31,7 @@
    * [Collectd](collect/collectd.md)
    * [Diamond](collect/diamond.md)
    * [Fluentd](collect/fluentd.md)
-   * [HostsFlow](collect/hostsflow.md)
+   * [Host sFlow](collect/hostsflow.md)
    * [Logstash](collect/logstash.md)
    * [NXlog](collect/nxlog.md)
    * [Osquery](collect/osquery.md)
