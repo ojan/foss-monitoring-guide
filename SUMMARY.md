@@ -8,7 +8,7 @@
    * [Consul](supervision/consul.md)
    * [ELK](supervision/elk.md)
    * [Graylog](supervision/graylog.md)
-   * Hawkular
+   * [Hawkular](supervision/hawkular.md)
    * [Heka](supervision/heka.md)
    * [Icinga2](supervision/icinga2.md)
    * [Naemon](supervision/naemon.md)
