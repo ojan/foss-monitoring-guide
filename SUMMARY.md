@@ -20,6 +20,7 @@
    * [Sensu](supervision/sensu.md)
    * [Shinken](supervision/shinken.md)
    * [Zabbix](supervision/zabbix.md)
+   * Hawkular
 * [Métrologie](metrologie/README.md)
    * [Cacti](metrologie/cacti.md)
    * [Ganglia](metrologie/ganglia.md)
