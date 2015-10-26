@@ -8,6 +8,7 @@
    * [Consul](supervision/consul.md)
    * [ELK](supervision/elk.md)
    * [Graylog](supervision/graylog.md)
+   * Hawkular
    * [Heka](supervision/heka.md)
    * [Icinga2](supervision/icinga2.md)
    * [Naemon](supervision/naemon.md)
@@ -20,7 +21,6 @@
    * [Sensu](supervision/sensu.md)
    * [Shinken](supervision/shinken.md)
    * [Zabbix](supervision/zabbix.md)
-   * Hawkular
 * [Métrologie](metrologie/README.md)
    * [Cacti](metrologie/cacti.md)
    * [Ganglia](metrologie/ganglia.md)
