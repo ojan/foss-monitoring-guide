@@ -25,7 +25,7 @@
    * [Graphite](metrologie/graphite.md)
    * [Munin](metrologie/munin.md)
    * [Statsd](metrologie/statsd.md)
-   * Ganglia
+   * [Ganglia](metrologie/ganglia.md)
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
    * [Cadvisor](collect/cadvisor.md)
