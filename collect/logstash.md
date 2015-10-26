@@ -1,6 +1,6 @@
 # Logstash
 
-Logstash est un outil de collecte, analyse et stockage de logs. Aujourd'hui en version 1.2.1, il est développé en Java, sous licence Apache 2.0.
+Logstash est un outil de collecte, analyse et stockage de logs. Il est développé en Java, sous licence Apache 2.0.
 
 Pour la collecte, il sait gérer plus d'une trentaine d'événements. Un événement peut être un message syslog, un mail via le protocole IMAP, un tweet ou encore une commande IRC.
 
