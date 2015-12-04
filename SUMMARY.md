@@ -11,6 +11,7 @@
    * [Hawkular](supervision/hawkular.md)
    * [Heka](supervision/heka.md)
    * [Icinga2](supervision/icinga2.md)
+   * Kamon
    * [Naemon](supervision/naemon.md)
    * [Nagios](supervision/nagios.md)
    * [Ntop](supervision/ntop.md)
@@ -21,7 +22,6 @@
    * [Sensu](supervision/sensu.md)
    * [Shinken](supervision/shinken.md)
    * [Zabbix](supervision/zabbix.md)
-   * Kamon
 * [Métrologie](metrologie/README.md)
    * [Cacti](metrologie/cacti.md)
    * [Ganglia](metrologie/ganglia.md)
