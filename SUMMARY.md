@@ -11,7 +11,7 @@
    * [Hawkular](supervision/hawkular.md)
    * [Heka](supervision/heka.md)
    * [Icinga2](supervision/icinga2.md)
-   * Kamon
+   * [Kamon](supervision/kamon.md)
    * [Naemon](supervision/naemon.md)
    * [Nagios](supervision/nagios.md)
    * [Ntop](supervision/ntop.md)
