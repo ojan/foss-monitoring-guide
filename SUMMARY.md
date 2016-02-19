@@ -34,7 +34,7 @@
    * [Collectd](collect/collectd.md)
    * [Diamond](collect/diamond.md)
    * [Fluentd](collect/fluentd.md)
-   * Heapster
+   * [Heapster](collect/heapster.md)
    * [Host sFlow](collect/hostsflow.md)
    * [Logstash](collect/logstash.md)
    * [NXlog](collect/nxlog.md)
