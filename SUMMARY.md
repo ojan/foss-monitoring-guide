@@ -26,9 +26,9 @@
    * [Cacti](metrologie/cacti.md)
    * [Ganglia](metrologie/ganglia.md)
    * [Graphite](metrologie/graphite.md)
+   * Heapster
    * [Munin](metrologie/munin.md)
    * [Statsd](metrologie/statsd.md)
-   * Heapster
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
    * [Cadvisor](collect/cadvisor.md)
