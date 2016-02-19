@@ -34,6 +34,7 @@
    * [Collectd](collect/collectd.md)
    * [Diamond](collect/diamond.md)
    * [Fluentd](collect/fluentd.md)
+   * Heapster
    * [Host sFlow](collect/hostsflow.md)
    * [Logstash](collect/logstash.md)
    * [NXlog](collect/nxlog.md)
@@ -44,7 +45,6 @@
    * [Sitespeed.io](collect/sitespeedio.md)
    * [Sysdig](collect/sysdig.md)
    * [Telegraf](collect/telegraf.md)
-   * Heapster
 * [Stockage](store/README.md)
    * [Elasticsearch](store/elasticsearch.md)
    * [InfluxDB](store/influxdb.md)
