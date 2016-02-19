@@ -28,6 +28,7 @@
    * [Graphite](metrologie/graphite.md)
    * [Munin](metrologie/munin.md)
    * [Statsd](metrologie/statsd.md)
+   * Heapster
 * [Collecte](collect/README.md)
    * [Beats](collect/beats.md)
    * [Cadvisor](collect/cadvisor.md)
