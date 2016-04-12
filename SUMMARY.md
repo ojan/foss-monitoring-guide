@@ -45,7 +45,7 @@
    * [Sitespeed.io](collect/sitespeedio.md)
    * [Sysdig](collect/sysdig.md)
    * [Telegraf](collect/telegraf.md)
-   * [Snap](collect/snap.md)
+   * [Snap](collect/snapmd.md)
 * [Stockage](store/README.md)
    * [Elasticsearch](store/elasticsearch.md)
    * [InfluxDB](store/influxdb.md)
