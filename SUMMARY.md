@@ -46,7 +46,6 @@
    * [Sysdig](collect/sysdig.md)
    * [Telegraf](collect/telegraf.md)
    * [Snap](collect/snap.md)
-   * Snap
 * [Stockage](store/README.md)
    * [Elasticsearch](store/elasticsearch.md)
    * [InfluxDB](store/influxdb.md)
